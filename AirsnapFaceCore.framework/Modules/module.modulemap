@@ -1,0 +1,6 @@
+framework module AirsnapFaceCore {
+  umbrella header "AirsnapFaceCore.h"
+
+  export *
+  module * { export * }
+}
