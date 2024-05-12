@@ -1,0 +1,4 @@
+framework module AirsnapFaceUI {
+  header "AirsnapFaceUI-Swift.h"
+  requires objc
+}
