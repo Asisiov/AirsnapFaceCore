@@ -1,18 +1,3 @@
-//
-//  AirSnapFingerUI.h
-//  AirSnapFingerUI
-//
-//  Created by Radhika on 21/10/22.
-//
-
-#import <Foundation/Foundation.h>
-
-//! Project version number for AirSnapFingerUI.
-FOUNDATION_EXPORT double AirSnapFingerUIVersionNumber;
-
-//! Project version string for AirSnapFingerUI.
-FOUNDATION_EXPORT const unsigned char AirSnapFingerUIVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <AirSnapFingerUI/PublicHeader.h>
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e6e2ae7a2e66d3fa6e0f5c73b6439a251e9b3f293d4057e9abbd8781284428
+size 489

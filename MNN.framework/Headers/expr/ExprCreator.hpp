@@ -1,16 +1,3 @@
-//
-//  ExprCreator.hpp
-//  MNN
-//
-//  Created by MNN on 2019/06/27.
-//  Copyright © 2018, Alibaba Group Holding Limited
-//
-
-#ifndef ExprCreator_hpp
-#define ExprCreator_hpp
-
-#include <MNN/expr/Expr.hpp>
-#include <MNN/expr/MathOp.hpp>
-#include <MNN/expr/NeuralNetWorkOp.hpp>
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:779c1bc9eacacf1a8fb6f484b31de65fe9a3122b2de00eea0789624d8fb15f34
+size 282
